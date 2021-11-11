@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="kustomization.yaml" pattern="file:kustomization.yaml" />
+</component>
