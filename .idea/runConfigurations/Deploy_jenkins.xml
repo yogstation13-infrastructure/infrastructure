@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Deploy jenkins" type="ShConfigurationType">
-    <option name="SCRIPT_TEXT" value=" helm upgrade --install --create-namespace --wait --post-renderer ./kustomize.sh -f values.yaml --namespace jenkins jenkins ./chart/" />
+    <option name="SCRIPT_TEXT" value=" helm upgrade --install --create-namespace --wait --post-renderer ./kustomize.sh -f values.yaml --namespace jenkins jenkins ." />
     <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
     <option name="SCRIPT_PATH" value="" />
     <option name="SCRIPT_OPTIONS" value="" />
