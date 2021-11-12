@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/infrastructure.iml" filepath="$PROJECT_DIR$/.idea/infrastructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/jenkins/jenkins.iml" filepath="$PROJECT_DIR$/jenkins/jenkins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
