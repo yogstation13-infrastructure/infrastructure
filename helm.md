@@ -8,3 +8,8 @@ helm pull --untar <repo>/<chart> --version <chartVersion>
 ```shell
 helm upgrade --install --create-namespace --wait --post-renderer ./kustomize.sh -f values.yaml --namespace <namespace> <releaseName> <chart>
 ```
+
+# Debugging a chart
+```shell
+helm template --create-namespace --wait --post-renderer ./kustomize.sh -f values.yaml --namespace <namespace> <releaseName> <chart>
+```
