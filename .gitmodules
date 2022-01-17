@@ -7,3 +7,6 @@
 [submodule "test"]
 	path = test
 	url = ../test
+[submodule "_apps"]
+	path = _apps
+	url = https://github.com/yogstation13-infrastructure/apps.git
