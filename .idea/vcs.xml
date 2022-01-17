@@ -4,6 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/harbor" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jenkins" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quay" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/test" vcs="Git" />
   </component>
 </project>

@@ -1,3 +1,6 @@
+[submodule "argocd"]
+	path = argocd
+	url = https://github.com/alexkar598/argocd.git
 [submodule "jenkins"]
 	path = jenkins
 	url = https://github.com/yogstation13-infrastructure/jenkins.git

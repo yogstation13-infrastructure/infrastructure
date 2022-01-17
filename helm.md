@@ -1,7 +1,7 @@
 # Downloading a chart
 
 ```shell
-helm pull --untar <repo>/<chart> --version <chartVersion>
+helm dependency update
 ```
 
 # Installing/Upgrading a chart to a cluster
