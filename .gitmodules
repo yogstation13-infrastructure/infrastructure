@@ -10,3 +10,6 @@
 [submodule "_apps"]
 	path = _apps
 	url = https://github.com/yogstation13-infrastructure/apps.git
+[submodule "harbor"]
+	path = harbor
+	url = https://github.com/yogstation13-infrastructure/harbor.git
