@@ -13,3 +13,13 @@ helm upgrade --install --create-namespace --wait --post-renderer ./kustomize.sh 
 ```shell
 helm template --create-namespace --wait --post-renderer ./kustomize.sh -f values.yaml --namespace <namespace> <releaseName> <chart>
 ```
+
+# Encrypt secrets
+```shell
+helm secrets enc secrets.yaml
+```
+
+# Decrypt secrets
+```shell
+helm secrets dec secrets.yaml
+```
