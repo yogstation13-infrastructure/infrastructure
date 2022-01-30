@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/argocd/argocd.iml" filepath="$PROJECT_DIR$/argocd/argocd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/harbor/harbor.iml" filepath="$PROJECT_DIR$/harbor/harbor.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/infrastructure.iml" filepath="$PROJECT_DIR$/.idea/infrastructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/jenkins/jenkins.iml" filepath="$PROJECT_DIR$/jenkins/jenkins.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
