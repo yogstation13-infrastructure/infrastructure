@@ -13,3 +13,6 @@
 [submodule "harbor"]
 	path = harbor
 	url = https://github.com/yogstation13-infrastructure/harbor.git
+[submodule "yogbot-kt"]
+	path = yogbot-kt
+	url = https://github.com/yogstation13-infrastructure/yogbot-kt.git

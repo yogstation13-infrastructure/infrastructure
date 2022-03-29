@@ -7,5 +7,6 @@
     <mapping directory="$PROJECT_DIR$/harbor" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jenkins" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yogbot-kt" vcs="Git" />
   </component>
 </project>
