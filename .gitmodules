@@ -1,21 +1,21 @@
 [submodule "argocd"]
 	path = argocd
-	url = https://github.com/alexkar598/argocd.git
+	url = ../argocd.git
 [submodule "jenkins"]
 	path = jenkins
-	url = https://github.com/yogstation13-infrastructure/jenkins.git
+	url = ../jenkins.git
 [submodule "test"]
 	path = test
 	url = ../test
 [submodule "_apps"]
 	path = _apps
-	url = https://github.com/yogstation13-infrastructure/apps.git
+	url = ../apps.git
 [submodule "harbor"]
 	path = harbor
-	url = https://github.com/yogstation13-infrastructure/harbor.git
+	url = ../harbor.git
 [submodule "yogbot-kt"]
 	path = yogbot-kt
-	url = https://github.com/yogstation13-infrastructure/yogbot-kt.git
+	url = ../yogbot-kt.git
 [submodule "drone"]
 	path = drone
-	url = https://github.com/yogstation13-infrastructure/drone.git
+	url = ../drone.git
