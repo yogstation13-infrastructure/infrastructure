@@ -1,21 +1,27 @@
 [submodule "argocd"]
 	path = argocd
 	url = ../argocd.git
+	branch = master
 [submodule "jenkins"]
 	path = jenkins
 	url = ../jenkins.git
+	branch = master
 [submodule "test"]
 	path = test
 	url = ../test
+	branch = master
 [submodule "_apps"]
 	path = _apps
 	url = ../apps.git
+	branch = master
 [submodule "harbor"]
 	path = harbor
 	url = ../harbor.git
+	branch = master
 [submodule "yogbot-kt"]
 	path = yogbot-kt
 	url = ../yogbot-kt.git
+	branch = master
 [submodule "drone"]
 	path = drone
 	url = ../drone.git
