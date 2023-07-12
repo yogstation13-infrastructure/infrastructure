@@ -25,3 +25,6 @@
 [submodule "drone"]
 	path = drone
 	url = ../drone.git
+[submodule "influxdb"]
+	path = influxdb
+	url = ../influxdb.git
