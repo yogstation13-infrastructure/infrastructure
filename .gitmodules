@@ -28,3 +28,6 @@
 [submodule "influxdb"]
 	path = influxdb
 	url = ../influxdb.git
+[submodule "cloudbeaver"]
+	path = cloudbeaver
+	url = ../cloudbeaver.git

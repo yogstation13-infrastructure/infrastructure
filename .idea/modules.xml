@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/argocd/argocd.iml" filepath="$PROJECT_DIR$/argocd/argocd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudbeaver/cloudbeaver.iml" filepath="$PROJECT_DIR$/cloudbeaver/cloudbeaver.iml" />
       <module fileurl="file://$PROJECT_DIR$/harbor/harbor.iml" filepath="$PROJECT_DIR$/harbor/harbor.iml" />
       <module fileurl="file://$PROJECT_DIR$/influxdb/influxdb.iml" filepath="$PROJECT_DIR$/influxdb/influxdb.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/infrastructure.iml" filepath="$PROJECT_DIR$/.idea/infrastructure.iml" />
